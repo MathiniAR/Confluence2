@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Insight-MadCap Test" Link="/Content/Insight_MadCap_Test.htm">
+        <TocEntry Title="01 - Seismic Attenuation" Link="/Content/01___Seismic_Attenuation.htm">
+            <TocEntry Title="Inverse Q filtering" Link="/Content/Inverse_Q_filtering.htm" />
+            <TocEntry Title="Inverse Q filtering (old version Home)" Link="/Content/Inverse_Q_filtering__old_version_Home_.htm" />
+            <TocEntry Title="Q Estimation - Spectral Ratio's" Link="/Content/Q_Estimation___Spectral_Ratio_s.htm" />
+        </TocEntry>
+        <TocEntry Title="Getting started" Link="/Content/Getting_started.htm">
+            <TocEntry Title="Making a template" Link="/Content/Making_a_template.htm" />
+        </TocEntry>
+    </TocEntry>
+</CatapultToc>

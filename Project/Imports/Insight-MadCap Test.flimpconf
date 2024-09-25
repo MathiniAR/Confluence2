@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfluenceImport
+  ImportFolder=""
+  Server="https://confluence.dug.com/"
+  SelectedSpace="IMT"
+  ImportResources="true"
+  KeepSourceLinks="false"
+  LastImport="2024-05-15T15:51:16.3334906+08:00"
+  ImportTopicsLocation="../../../../../../Documents/My Projects/Confluence_2/Content/">
+  <Files>
+    <Url
+      Source="https://confluence.dug.com/pages/viewpage.action?pageId=155354529"
+      AbsoluteSource="https://confluence.dug.com/pages/viewpage.action?pageId=155354529" />
+    <Url
+      Source="https://confluence.dug.com/pages/viewpage.action?pageId=155354533"
+      AbsoluteSource="https://confluence.dug.com/pages/viewpage.action?pageId=155354533" />
+    <Url
+      Source="https://confluence.dug.com/pages/viewpage.action?pageId=155354534"
+      AbsoluteSource="https://confluence.dug.com/pages/viewpage.action?pageId=155354534" />
+    <Url
+      Source="https://confluence.dug.com/pages/viewpage.action?pageId=155354597"
+      AbsoluteSource="https://confluence.dug.com/pages/viewpage.action?pageId=155354597" />
+    <Url
+      Source="https://confluence.dug.com/pages/viewpage.action?pageId=155354657"
+      AbsoluteSource="https://confluence.dug.com/pages/viewpage.action?pageId=155354657" />
+    <Url
+      Source="https://confluence.dug.com/pages/viewpage.action?pageId=155354530"
+      AbsoluteSource="https://confluence.dug.com/pages/viewpage.action?pageId=155354530" />
+    <Url
+      Source="https://confluence.dug.com/pages/viewpage.action?pageId=155354531"
+      AbsoluteSource="https://confluence.dug.com/pages/viewpage.action?pageId=155354531" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Insight_MadCap_Test.htm"
+      TimeStamp="15/5/2024 3:51:02 PM" />
+    <Url
+      Source="../../Content/01___Seismic_Attenuation.htm"
+      TimeStamp="15/5/2024 3:51:02 PM" />
+    <Url
+      Source="../../Content/Inverse_Q_filtering.htm"
+      TimeStamp="15/5/2024 3:51:02 PM" />
+    <Url
+      Source="../../Content/Inverse_Q_filtering__old_version_Home_.htm"
+      TimeStamp="15/5/2024 3:51:02 PM" />
+    <Url
+      Source="../../Content/Q_Estimation___Spectral_Ratio_s.htm"
+      TimeStamp="15/5/2024 3:51:02 PM" />
+    <Url
+      Source="../../Content/Getting_started.htm"
+      TimeStamp="15/5/2024 3:51:02 PM" />
+    <Url
+      Source="../../Content/Making_a_template.htm"
+      TimeStamp="15/5/2024 3:51:02 PM" />
+    <Url
+      Source="../TOCs/Insight-MadCap Test.fltoc"
+      TimeStamp="15/5/2024 3:51:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/wait.gif"
+      TimeStamp="15/5/2024 3:50:45 PM" />
+    <Url
+      Source="../../Content/Resources/Images/AVA Friendly Q Amplitude Compensation_trantham2017_XOM.pdf"
+      TimeStamp="15/5/2024 3:50:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Proper time-referencing for prestack Q estimation and compensation.pdf"
+      TimeStamp="15/5/2024 3:50:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/The accuracy of estimating Q from seismic data.pdf"
+      TimeStamp="15/5/2024 3:50:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2019-2-5_7-20-29.png"
+      TimeStamp="15/5/2024 3:50:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2019-1-23_11-51-30.png"
+      TimeStamp="15/5/2024 3:50:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2019-1-23_11-51-12.png"
+      TimeStamp="15/5/2024 3:50:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_12-47-6.png"
+      TimeStamp="15/5/2024 3:50:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_12-46-54.png"
+      TimeStamp="15/5/2024 3:50:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-12-12_11-20-10.png"
+      TimeStamp="15/5/2024 3:50:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-12-12_11-20-1.png"
+      TimeStamp="15/5/2024 3:50:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_12-45-27.png"
+      TimeStamp="15/5/2024 3:50:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_12-42-55.png"
+      TimeStamp="15/5/2024 3:50:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_12-42-43.png"
+      TimeStamp="15/5/2024 3:50:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_12-42-35.png"
+      TimeStamp="15/5/2024 3:50:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_12-42-24.png"
+      TimeStamp="15/5/2024 3:50:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_11-9-36.png"
+      TimeStamp="15/5/2024 3:50:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_11-9-22.png"
+      TimeStamp="15/5/2024 3:50:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_11-9-6.png"
+      TimeStamp="15/5/2024 3:50:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_11-8-5.png"
+      TimeStamp="15/5/2024 3:50:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/q_panel.png"
+      TimeStamp="15/5/2024 3:50:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2019-2-12_10-12-19.png"
+      TimeStamp="15/5/2024 3:50:57 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_12-59-40.png"
+      TimeStamp="15/5/2024 3:50:57 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_12-59-28.png"
+      TimeStamp="15/5/2024 3:50:57 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2019-3-5_16-0-13.png"
+      TimeStamp="15/5/2024 3:50:57 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2019-3-5_15-59-58.png"
+      TimeStamp="15/5/2024 3:50:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2019-3-5_15-59-49.png"
+      TimeStamp="15/5/2024 3:50:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2019-3-5_13-15-16.png"
+      TimeStamp="15/5/2024 3:50:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_12-58-48.png"
+      TimeStamp="15/5/2024 3:50:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_12-57-8.png"
+      TimeStamp="15/5/2024 3:50:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_11-4-29.png"
+      TimeStamp="15/5/2024 3:50:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_11-3-49.png"
+      TimeStamp="15/5/2024 3:50:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2019-3-6_10-44-48.png"
+      TimeStamp="15/5/2024 3:50:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2019-3-6_10-44-40.png"
+      TimeStamp="15/5/2024 3:50:57 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_13-44-4.png"
+      TimeStamp="15/5/2024 3:50:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2019-2-28_10-48-5.png"
+      TimeStamp="15/5/2024 3:51:00 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2019-2-28_10-47-4.png"
+      TimeStamp="15/5/2024 3:51:00 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_13-42-58.png"
+      TimeStamp="15/5/2024 3:51:00 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_13-42-47.png"
+      TimeStamp="15/5/2024 3:51:00 PM" />
+    <Url
+      Source="../../Content/Resources/creat_spreadsheetInput.sh"
+      TimeStamp="15/5/2024 3:51:00 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_13-41-25.png"
+      TimeStamp="15/5/2024 3:51:00 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2019-2-28_10-41-43.png"
+      TimeStamp="15/5/2024 3:51:00 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2019-2-28_10-41-32.png"
+      TimeStamp="15/5/2024 3:51:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2019-2-28_10-41-9.png"
+      TimeStamp="15/5/2024 3:51:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2019-2-28_10-40-53.png"
+      TimeStamp="15/5/2024 3:51:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2019-2-28_10-40-25.png"
+      TimeStamp="15/5/2024 3:51:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_11-49-36.png"
+      TimeStamp="15/5/2024 3:51:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_11-49-9.png"
+      TimeStamp="15/5/2024 3:51:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2019-1-2_9-45-53.png"
+      TimeStamp="15/5/2024 3:51:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/image2018-10-12_11-47-53.png"
+      TimeStamp="15/5/2024 3:51:02 PM" />
+  </GeneratedFiles>
+</ConfluenceImport>
